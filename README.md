@@ -15,8 +15,8 @@
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Meherab151175/promanag.git
+cd promanag
 ```
 
 2. Install PHP dependencies
